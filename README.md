@@ -1,3 +1,3 @@
 # El-Zero-DOM-Challenge
 
-<img src="dom-Challenge.jpg" />
+<img src="https://github.com/Nourhaan-Atef/El-Zero-DOM-Challenge/blob/main/dom-challenge.jpg" />
