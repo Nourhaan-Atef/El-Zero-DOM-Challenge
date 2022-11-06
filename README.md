@@ -1,3 +1,3 @@
 # El-Zero-DOM-Challenge
 
-<img src="me.jpg" />
+<img src="dom-Challenge.jpg" />
